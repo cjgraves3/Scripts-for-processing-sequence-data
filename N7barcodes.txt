@@ -1,0 +1,13 @@
+# READ 2 START 1 END 9
+N701splitreads	TAAGGCGA
+N702splitreads	CGTACTAG
+N703splitreads	AGGCAGAA
+N704splitreads	TCCTGAGC
+N705splitreads	GGACTCCT
+N706splitreads	TAGGCATG
+N707splitreads	CTCTCTAC
+N708splitreads	CAGAGAGG
+N709splitreads	GCTACGCT
+N710splitreads	CGAGGCTG
+N711splitreads	AAGAGGCA
+N712splitreads	GTAGAGGA

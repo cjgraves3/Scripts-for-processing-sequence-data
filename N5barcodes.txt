@@ -1,0 +1,9 @@
+# READ 2 START 1 END 9
+N517splitreads	GCGTAAGA
+N502splitreads	CTCTCTAT
+N503splitreads	TATCCTCT
+N504splitreads	AGAGTAGA
+N505splitreads	GTAAGGAG
+N506splitreads	ACTGCATA
+N507splitreads	AAGGAGTA
+N508splitreads	CTAAGCCT
